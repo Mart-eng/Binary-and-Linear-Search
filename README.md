@@ -1,0 +1,3 @@
+# Binary-and-Linear-Search
+Write a program that has both Linear Search and Binary Search algorithms implemented defined as two separate functions. Run each of the algorithms on the list of integers from 0 to 999999 and time them on three different numbers to search for: 10, 499999, and 999999. At the end your program should print the results.
+Write a program that has both Linear Search and Binary Search algorithms implemented defined as two separate functions. Run each of the algorithms on the list of integers from 0 to 999999 and time them on three different numbers to search for: 10, 499999, and 999999. At the end your program should print the results.
